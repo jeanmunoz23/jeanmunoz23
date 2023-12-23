@@ -1,13 +1,11 @@
 # Hola Mundo :smiley:
 <div>
 
-- 🔭 I am currently working as a full stack developer
-- 🌱 I am currently learning the fullstackopen.com course and English to go from elementary/A2 to Intermediate.
-- 📫How to contact me: 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)](https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munozjeanette23@gmail.com)](mailto:munozjeanette23@gmail.com)
-- 😄 Nickname: Jean or Jan or Janet
-- ⚡ Fun fact: I love watching anime and reading novels, mangas, manhwas and Korean dramas.
+- 🔭 Actualmente estoy trabajando como desarroladora full stack
+- 🌱 Actualmente estoy aprendiendo el curso fullstackopen.com y inglés para pasar de elementary/A2 a Intermedia.
+- 📫Cómo contactarme: https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/ 
+- 😄 Apodo: Jean o Jan o Janet
+- ⚡ Dato curioso: Me encanta ver el anime y leer novelas, mangas, los manhwas y los doramas/dramas coreanos.
 
 </div>
 
@@ -19,18 +17,18 @@ En cuanto a habilidades técnicas, tengo experiencia en el uso de herramientas d
 Soy una persona proactiva, comprometida y apasionada por la tecnología. Me gusta trabajar en equipo y compartir conocimientos con mis compañeros de trabajo. Estoy dispuesto a enfrentar nuevos desafíos y a aprender cosas nuevas para seguir creciendo como profesional.
 
 ## Mi stack actual en tecnología: :books:
-HTML
-CSS
-JavaScript
-Typescript
-Golang
-Angular
-SQL
-MongoDB
-Python
-Aprendiendo ProgresSQL
-Aprendiendo Java
-Aprendiendo React
+- HTML
+- CSS
+- JavaScript
+- Typescript
+- Golang
+- Angular
+- SQL
+- MongoDB
+- Python
+- Aprendiendo ProgresSQL
+- Aprendiendo Java
+- Aprendiendo React
 
 
 
