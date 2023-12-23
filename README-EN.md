@@ -3,11 +3,8 @@
 
 - 🔭 I am currently working as a full stack developer
 - 🌱 I am currently learning the fullstackopen.com course and English to go from elementary/A2 to Intermediate.
-- 📫How to contact me:
-<div>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)](https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)
+- 📫How to contact me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)](https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munozjeanette23@gmail.com)](mailto:munozjeanette23@gmail.com)
-</div>
 - 😄 Nickname: Jean or Jan or Janet
 - ⚡ Fun fact: I love watching anime and reading novels, mangas, manhwas and Korean dramas.
 </div>
