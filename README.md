@@ -1,17 +1,17 @@
 # Hola Mundo :smiley:
-<div>
+
 
 - 🔭 Actualmente estoy trabajando como desarroladora full stack
 - 🌱 Actualmente estoy aprendiendo el curso fullstackopen.com y inglés para pasar de elementary/A2 a Intermedia.
 - 📫Cómo contactarme:
-<div>
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)](https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munozjeanette23@gmail.com)](mailto:munozjeanette23@gmail.com)
-</div>
+
 - 😄 Apodo: Jean o Jan o Janet
 - ⚡ Dato curioso: Me encanta ver el anime y leer novelas, mangas, los manhwas y los doramas/dramas coreanos.
 
-</div>
+
 
 ## Sobre mi
 Soy un Desarrollador Full Stack. Mi lenguaje de programación favorito en el backend es Golang, así como Javascript y Typescript. En el frontend, utilizo Angular, pero actualmente estoy aprendiendo React. También tengo experiencia en bases de datos como MySQL y MongoDB, así como en el desarrollo de API RESTful. En el lado del servidor, he trabajado con tecnologías como Node.js y Express. Estoy constantemente actualizando mis habilidades y aprendiendo nuevas tecnologías para seguir siendo un desarrollador Full Stack eficiente y actualizado.
