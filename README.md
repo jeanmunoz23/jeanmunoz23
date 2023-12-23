@@ -3,8 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando como desarroladora full stack
 - 🌱 Actualmente estoy aprendiendo el curso fullstackopen.com y inglés para pasar de elementary/A2 a Intermedia.
-- 📫Cómo contactarme:
-  
+- 📫Cómo contactarme:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)](https://www.linkedin.com/in/jeanette-elizabeth-mu%C3%B1oz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munozjeanette23@gmail.com)](mailto:munozjeanette23@gmail.com)
 
