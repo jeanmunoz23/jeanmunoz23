@@ -11,7 +11,11 @@
 
 
 ## Sobre mi
-Soy un Desarrollador Full Stack. Mi lenguaje de programación favorito en el backend es Golang, así como Javascript y Typescript. En el frontend, utilizo Angular, pero actualmente estoy aprendiendo React. También tengo experiencia en bases de datos como MySQL y MongoDB, así como en el desarrollo de API RESTful. En el lado del servidor, he trabajado con tecnologías como Node.js y Express. Estoy constantemente actualizando mis habilidades y aprendiendo nuevas tecnologías para seguir siendo un desarrollador Full Stack eficiente y actualizado.
+Soy un Desarrollador Full Stack. 
+Mi lenguaje de programación favorito en el backend es Golang, así como Javascript y Typescript con tecnologías como Node.js y Expres.
+En el frontend, utilizo Angular, pero actualmente estoy aprendiendo React. 
+También tengo experiencia en bases de datos como MySQL, postgresql y MongoDB, así como en el desarrollo de API RESTful. 
+Estoy constantemente actualizando mis habilidades y aprendiendo nuevas tecnologías para seguir siendo un desarrollador Full Stack eficiente y actualizado.
 
 En cuanto a habilidades técnicas, tengo experiencia en el uso de herramientas de control de versiones como Git, así como en el uso de metodologías ágiles como Scrum y Kanban. También tengo conocimientos en el uso de herramientas de automatización de pruebas y en la implementación de pruebas unitarias y de integración.
 
@@ -26,8 +30,8 @@ Soy una persona proactiva, comprometida y apasionada por la tecnología. Me gust
 - Angular
 - SQL
 - MongoDB
+- Postgresql
 - Python
-- Aprendiendo ProgresSQL
 - Aprendiendo Java
 - Aprendiendo React
 
